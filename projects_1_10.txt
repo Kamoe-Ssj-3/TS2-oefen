@@ -1,0 +1,15 @@
+nTeams:
+1
+nProjects:
+10
+Project properties: (index, processing time, due date)
+0	40	96
+1	72	283
+2	22	234
+3	71	188
+4	53	111
+5	13	194
+6	14	219
+7	20	118
+8	37	308
+9	68	121
